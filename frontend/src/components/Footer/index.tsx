@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light">
-          App desenvolvido por{""}
+          App desenvolvido por {""}
           <a href="https://github.com/addych" target="_blank" rel="noreferrer">
             Alex Nicol
           </a>
